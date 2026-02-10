@@ -1,6 +1,6 @@
 #### Databricks Interface 
 
-<img width="900" alt="databricks" src="https://github.com/rajeshreddy185/polls/blob/main/mysite3-20210509T044718Z-001/mysite3/Screenshot%202026-02-10%20at%2010.05.47%20AM.png" />
+<img height="700" width="900" alt="databricks" src="https://github.com/rajeshreddy185/polls/blob/main/mysite3-20210509T044718Z-001/mysite3/Screenshot%202026-02-10%20at%2010.05.47%20AM.png" />
 
 1. General Navigation
     New: This is your "quick start" button. Click here to create a new Notebook, Table, Cluster, or 
