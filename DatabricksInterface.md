@@ -3,6 +3,7 @@
 <img height="700" width="900" alt="databricks" src="https://github.com/rajeshreddy185/polls/blob/main/mysite3-20210509T044718Z-001/mysite3/Screenshot%202026-02-10%20at%2010.05.47%20AM.png" />
 
 General Navigation
+
 *     New: This is your "quick start" button. Click here to create a new Notebook, Table, Cluster, or  
            Job without navigating through the sub-menus.
 *     Home: Your personal landing page. It shows your recent files and provides links to 
@@ -17,6 +18,7 @@ General Navigation
 *     Compute: Crucial step. This is where you create and manage your "Clusters" 
              (the virtual machines that actually run your code). You can't run a notebook without an active compute resource.
 *     Marketplace: A hub where you can find third-party datasets and pre-built solutions to import into your workspace.
+
 SQL
    These tools are specifically for users who prefer a "Data Warehouse" experience 
    (using SQL rather than Python/Scala notebooks).
